@@ -1,3 +1,4 @@
+//Step:0 Open in Desktop Browser
 //Step:1 go to https://www.linkedin.com/feed/following/
 //Step:2 Open Dev tools in your browser.
 //Step:3 Paste the below script and press enter
